@@ -1,6 +1,6 @@
-# Verification-Bot
+# MAGIURA
 
-![image](https://media.discordapp.net/attachments/839032308492533770/883254901436727326/Verivication_Bot.png?width=771&height=434)
+![image]([https://media.discordapp.net/attachments/839032308492533770/883254901436727326/Verivication_Bot.png?width=771&height=434](https://media.discordapp.net/attachments/1321321271484743693/1417583284979892345/convert.gif?ex=68cb02d0&is=68c9b150&hm=01b5ef928522a66a71ddc06e66ba7215539dae5afb0e977e07a54cb22815190d&=&width=350&height=415))
 
 Discord.js Verification bot which can auto delete message and gives or removes role when they verified.
 
